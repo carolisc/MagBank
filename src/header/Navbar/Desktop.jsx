@@ -1,6 +1,6 @@
 import { string } from 'prop-types'
-import { Logo } from '../../Logo/Logo'
-import { NavLinks } from './NavLinks'
+import { Logo } from '../../components/Logo/Logo'
+import { NavLinks } from '../Navbar/NavLinks'
 import { NavButtons } from './NavButtons'
 
 Desktop.propTypes = {
