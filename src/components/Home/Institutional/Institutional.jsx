@@ -2,7 +2,7 @@ import { Button, Col, Container, Image, Row } from 'react-bootstrap'
 import { faUserGroup, faMobile, faGlobe, faFingerprint } from '@fortawesome/free-solid-svg-icons'
 import backgroundImg from '../../../assets/institutional.png'
 import backgroundImgDesktop from '../../../assets/institutional-desktop.png'
-import { IconText } from '../../IconText/IconText'
+import { IconText } from '../../Shared/IconText/IconText'
 import './Institutional.sass'
 import { ConfirmButton } from '../../ConfirmButton/ConfirmButton'
 

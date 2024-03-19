@@ -1,7 +1,7 @@
 import { Col, Container, Image, Row } from 'react-bootstrap'
-import heroBackground from '../../../assests/hero.png'
-import heroLogo from '../../../assests/logo-hero.png'
-import heroLogoDesktop from '../../../assests/logo-hero-desktop.png'
+import heroBackground from '../../../assets/hero.png'
+import heroLogo from '../../../assets/logo-hero.png'
+import heroLogoDesktop from '../../../assets/logo-hero-desktop.png'
 import { ConfirmButton } from '../../ConfirmButton/ConfirmButton'
 import './Hero.sass'
 
